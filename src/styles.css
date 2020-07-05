@@ -6,11 +6,12 @@
 }
 .users{
   float: left;
-  width: 60%;
+  width: auto;
+  max-width: 60%;
 }
 .userDetail{
   float: left;
-  width: 35%;
+  width: 28%;
 }
 .btn-save, .reset {
   background-color: green;
@@ -33,15 +34,16 @@
   display: inline-block;
   text-align: left;
   padding: 5px;
-  width: 25%;
+  width: 50%;
 }
 .form-group input{
   padding: 5px;
   border: 1px solid #c0c0c0;
-  width: 68%;
+  width: 90%;
   text-align: left;
   /*border: 1px solid blue;*/
 }
+
 label, input {
   margin-right: 5px;
 }
