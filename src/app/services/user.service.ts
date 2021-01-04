@@ -9,45 +9,45 @@ export class UserService{
     name: 'Manuel',
     lastname: 'Rodriguez',
     email: 'manuel.rodriguez15@libero.it',
-    fiscalcode: 'RDRMLL92E06Z504K',
+    fiscalcode: 'myFiscalCode0',
     province: 'Bologna',
-    phone: '3349980678'
+    phone: '123456789'
     },
     {
       id: 2,
       name: 'Manuel1',
       lastname: 'Rodriguez1',
       email: 'manuel.rodriguez15@libero.it',
-      fiscalcode: 'RDRMLL92E06Z504K',
+      fiscalcode: 'myFiscalCode1',
       province: 'Bologna',
-      phone: '3349980678'
+      phone: '123456789'
     },
     {
         id: 3,
         name: 'Manuel2',
         lastname: 'Rodriguez2',
         email: 'manuel.rodriguez15@libero.it',
-        fiscalcode: 'RDRMLL92E06Z504K',
+        fiscalcode: 'myFiscalCode2',
         province: 'Bologna',
-        phone: '3349980678'
+        phone: '123456789'
     },
     {
           id: 4,
           name: 'Manuel3',
           lastname: 'Rodriguez3',
           email: 'manuel.rodriguez15@libero.it',
-          fiscalcode: 'RDRMLL92E06Z504K',
+          fiscalcode: 'myFiscalCode3',
           province: 'Bologna',
-          phone: '3349980678'
+          phone: '123456789'
     },
     {
              id: 5,
             name: 'Manuel4',
             lastname: 'Rodriguez4',
             email: 'manuel.rodriguez15@libero.it',
-            fiscalcode: 'RDRMLL92E06Z504K',
+            fiscalcode: 'myFiscalCode4',
             province: 'Bologna',
-            phone: '3349980678'
+            phone: '123456789'
     }];
   constructor(){}
   getUsers() {
